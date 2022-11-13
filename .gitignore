@@ -10,3 +10,12 @@ dicts/*
 
 data.zip
 data.zip/*
+
+notebooks/training_logs/*
+notebooks/training_logs
+notebooks/training_logs/
+training_logs/*
+
+
+notebooks/dateexpiration.zip
+notebooks/__pycache__
